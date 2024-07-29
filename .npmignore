@@ -6,6 +6,7 @@ npm-debug.log*
 coverage
 .nyc_output
 node_modules
+./test
 .npm
 package-lock.json
 tests.js
